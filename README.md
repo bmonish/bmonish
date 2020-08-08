@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# I'm currently travelling on a path to become a Full Stack Developer
+
+I'm learning React.JS now and looking forward to collobarate on that
 <!--
 **bmonish/bmonish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
