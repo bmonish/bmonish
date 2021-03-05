@@ -7,6 +7,14 @@
 - 📫 Reach me at [**@monish.codes**](https://www.instagram.com/monish.codes/) or **monishmonib@gmail.com** or [**LinkedIn**](https://linkedin.com/in/bmonish)
 - 👤 My Other Profiles: [**LeetCode**](https://leetcode.com/bmonish/) | [**Hackerrank**](https://www.hackerrank.com/monishmonib)
 
+__________
+
+### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
+
+| 𝗚𝗜𝗧  | 𝗩𝗦 𝗖𝗼𝗱𝗲 | 𝗡𝗲𝘁𝗹𝗶𝗳𝘆 | 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=bmonish&count_private=true&show_icons=true&theme=react&hide=stars" alt="bmonish"/></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
