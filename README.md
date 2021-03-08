@@ -29,7 +29,7 @@ __________
 
 ### ***Currently Mastering***
 
-| 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 |
+| JavaScript | Node Js | React Js |
 | ------------- | ------------- |------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |
 
