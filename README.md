@@ -23,7 +23,7 @@ __________
 
 ### ***Design tools I use***
 
-| 𝗙𝗜𝗚𝗠𝗔 | 𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡 |
+| Figma | Invision |
 | ------------- | ------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/invision.svg"> |
 
