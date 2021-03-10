@@ -17,7 +17,7 @@ __________
 
 ### ***Tools I Use***
 
-| 𝗚𝗜𝗧  | 𝗩𝗦 𝗖𝗼𝗱𝗲 | 𝗡𝗲𝘁𝗹𝗶𝗳𝘆 | 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 | 
+| GIT  | VS Code | Netlify | Terminal | 
 | ------------- | ------------- |------------- | ------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
 
