@@ -11,7 +11,7 @@ __________
 
 ### ***Tech Stack***
 
-| 𝗛𝗧𝗠𝗟  | 𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 |
+| HTML  | CSS | BOOTSTRAP |
 | ------------- | ------------- |------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
 
