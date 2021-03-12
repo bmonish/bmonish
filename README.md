@@ -11,9 +11,9 @@ __________
 
 ### ***Tech Stack***
 
-| 𝗛𝗧𝗠𝗟  | 𝗖𝗦𝗦 | 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 |
-| ------------- | ------------- |------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/sass.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
+| 𝗛𝗧𝗠𝗟  | 𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 |
+| ------------- | ------------- |------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
 
 ### ***Tools I Use***
 
