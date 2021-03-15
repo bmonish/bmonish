@@ -11,9 +11,9 @@ __________
 
 ### ***Tech Stack***
 
-| 𝗛𝗧𝗠𝗟  | 𝗖𝗦𝗦 | 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 | 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 |
-| ------------- | ------------- |------------- | ------------- |------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/sass.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |
+| 𝗛𝗧𝗠𝗟  | 𝗖𝗦𝗦 | 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 |
+| ------------- | ------------- |------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/sass.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
 
 ### ***Tools I Use***
 
@@ -26,6 +26,12 @@ __________
 | 𝗙𝗜𝗚𝗠𝗔 | 𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡 |
 | ------------- | ------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/invision.svg"> |
+
+### ***Currently Mastering***
+
+| 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 |
+| ------------- | ------------- |------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |
 
 _____
 
