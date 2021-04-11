@@ -3,7 +3,7 @@
 # I'm currently travelling on a path to become a Full Stack Developer
 
 - 🔭 I’m currently working on a **LMS app** and a [**Landing Page.**](https://bmonish.github.io/early-storage/)
-- 🌱 I’m currently learning **ReactJs** and **RestAPIs.**
+- 🌱 I’m currently learning **ReactJs**, **RestAPIs** and also practicing **Competitive Programming**
 - 📫 Reach me at [**@monish.codes**](https://www.instagram.com/monish.codes/) or **monishmonib@gmail.com**
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bmonish&count_private=true&show_icons=true&theme=react&hide=stars)](https://github-readme-stats.vercel.app/api?username=bmonish&count_private=true&show_icons=true&theme=react&hide=stars)
