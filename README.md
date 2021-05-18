@@ -8,7 +8,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bmonish&count_private=true&show_icons=true&theme=react&hide=stars)](https://github-readme-stats.vercel.app/api?username=bmonish&count_private=true&show_icons=true&theme=react&hide=stars)
 
-[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=bmonish&)](https://github-readme-streak-stats.herokuapp.com/?user=bmonish&)
+[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=bmonish)](https://github-readme-streak-stats.herokuapp.com/?user=bmonish)
 
 <!--
 **bmonish/bmonish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
