@@ -30,7 +30,7 @@ __________
 ### ***Currently Mastering***
 
 | JavaScript | Node Js | React Js | Data Structures |
-| ------------- | ------------- |------------- |------------- |
+| :-------------: | :-------------: | :-------------: |:-------------: |
 | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://image.flaticon.com/icons/png/512/2920/2920211.png"> |
 
 _____
