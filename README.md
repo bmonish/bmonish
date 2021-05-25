@@ -40,3 +40,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#27](https://github.com/bmonish/early-storage/pull/27) in [bmonish/early-storage](https://github.com/bmonish/early-storage)
+2. ❗️ Closed issue [#17](https://github.com/bmonish/early-storage/issues/17) in [bmonish/early-storage](https://github.com/bmonish/early-storage)
+3. 💪 Opened PR [#27](https://github.com/bmonish/early-storage/pull/27) in [bmonish/early-storage](https://github.com/bmonish/early-storage)
+4. 🎉 Merged PR [#26](https://github.com/bmonish/early-storage/pull/26) in [bmonish/early-storage](https://github.com/bmonish/early-storage)
+5. ❗️ Closed issue [#25](https://github.com/bmonish/early-storage/issues/25) in [bmonish/early-storage](https://github.com/bmonish/early-storage)
+<!--END_SECTION:activity-->
