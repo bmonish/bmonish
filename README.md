@@ -24,7 +24,7 @@ __________
 ### ***Design tools I use***
 
 | Figma | Invision |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 | <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/invision.svg"> |
 
 ### ***Currently Mastering***
