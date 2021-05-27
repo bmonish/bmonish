@@ -12,7 +12,7 @@ __________
 ### ***Tech Stack***
 
 | HTML  | CSS | BOOTSTRAP |
-| ------------- | ------------- |------------- |
+| :-------------: | :-------------: | :-------------: |
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
 
 ### ***Tools I Use***
