@@ -40,9 +40,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/bmonish/portfolio/issues/14) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-2. 🎉 Merged PR [#13](https://github.com/bmonish/portfolio/pull/13) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-3. 💪 Opened PR [#13](https://github.com/bmonish/portfolio/pull/13) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-4. 🎉 Merged PR [#11](https://github.com/bmonish/portfolio/pull/11) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-5. 🎉 Merged PR [#12](https://github.com/bmonish/portfolio/pull/12) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+1. 🎉 Merged PR [#1](https://github.com/bmonish/Technical-Training-SRM-EEC/pull/1) in [bmonish/Technical-Training-SRM-EEC](https://github.com/bmonish/Technical-Training-SRM-EEC)
+2. 💪 Opened PR [#1](https://github.com/bmonish/Technical-Training-SRM-EEC/pull/1) in [bmonish/Technical-Training-SRM-EEC](https://github.com/bmonish/Technical-Training-SRM-EEC)
+3. ❗️ Opened issue [#14](https://github.com/bmonish/portfolio/issues/14) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+4. 🎉 Merged PR [#13](https://github.com/bmonish/portfolio/pull/13) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+5. 💪 Opened PR [#13](https://github.com/bmonish/portfolio/pull/13) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
 <!--END_SECTION:activity-->
