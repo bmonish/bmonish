@@ -40,9 +40,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bmonish/Technical-Training-SRM-EEC/pull/1) in [bmonish/Technical-Training-SRM-EEC](https://github.com/bmonish/Technical-Training-SRM-EEC)
-2. 💪 Opened PR [#1](https://github.com/bmonish/Technical-Training-SRM-EEC/pull/1) in [bmonish/Technical-Training-SRM-EEC](https://github.com/bmonish/Technical-Training-SRM-EEC)
-3. ❗️ Opened issue [#14](https://github.com/bmonish/portfolio/issues/14) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-4. 🎉 Merged PR [#13](https://github.com/bmonish/portfolio/pull/13) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-5. 💪 Opened PR [#13](https://github.com/bmonish/portfolio/pull/13) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+1. 🎉 Merged PR [#3](https://github.com/bmonish/mobile-app-dev-test-repo/pull/3) in [bmonish/mobile-app-dev-test-repo](https://github.com/bmonish/mobile-app-dev-test-repo)
+2. 🎉 Merged PR [#2](https://github.com/bmonish/mobile-app-dev-test-repo/pull/2) in [bmonish/mobile-app-dev-test-repo](https://github.com/bmonish/mobile-app-dev-test-repo)
+3. 🎉 Merged PR [#1](https://github.com/bmonish/mobile-app-dev-test-repo/pull/1) in [bmonish/mobile-app-dev-test-repo](https://github.com/bmonish/mobile-app-dev-test-repo)
+4. 💪 Opened PR [#1](https://github.com/bmonish/mobile-app-dev-test-repo/pull/1) in [bmonish/mobile-app-dev-test-repo](https://github.com/bmonish/mobile-app-dev-test-repo)
+5. 🎉 Merged PR [#1](https://github.com/bmonish/Technical-Training-SRM-EEC/pull/1) in [bmonish/Technical-Training-SRM-EEC](https://github.com/bmonish/Technical-Training-SRM-EEC)
 <!--END_SECTION:activity-->
