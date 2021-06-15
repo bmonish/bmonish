@@ -11,9 +11,9 @@ __________
 
 ### ***Tech Stack***
 
-| HTML  | CSS | BOOTSTRAP |
-| :-------------: | :-------------: | :-------------: |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
+| HTML  | CSS | JAVASCRIPT | BOOTSTRAP |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
 
 ### ***Tools I Use***
 
@@ -31,7 +31,7 @@ __________
 
 | JavaScript | Node Js | React Js | Data Structures |
 | :-------------: | :-------------: | :-------------: |:-------------: |
-| <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://image.flaticon.com/icons/png/512/2920/2920211.png"> |
+ | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |<img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://image.flaticon.com/icons/png/512/2920/2920211.png"> |
 
 _____
 
