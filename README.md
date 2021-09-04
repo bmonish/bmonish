@@ -2,7 +2,7 @@
 
 # I'm currently travelling on a path to become a Full Stack Developer
 
-- 🔭 I’m currently working on a **LMS app** and a [**Landing Page.**](https://bmonish.github.io/early-storage/)
+- 🔭 I’m currently working on a **Social Network App** and a [**Landing Page.**](https://bmonish.github.io/early-storage/)
 - 🌱 I’m currently learning **ReactJs**, **RestAPIs** and also practicing **Competitive Programming**
 - 📫 Reach me at [**@monish.codes**](https://www.instagram.com/monish.codes/) or **monishmonib@gmail.com** or [**LinkedIn**](https://linkedin.com/in/bmonish)
 - 👤 My Other Profiles: [**LeetCode**](https://leetcode.com/bmonish/) | [**Hackerrank**](https://www.hackerrank.com/monishmonib)
