@@ -40,9 +40,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/awran5/react-simple-star-rating/issues/1) in [awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)
-2. 🗣 Commented on [#1](https://github.com/awran5/react-simple-star-rating/issues/1) in [awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)
-3. 🗣 Commented on [#1](https://github.com/awran5/react-simple-star-rating/issues/1) in [awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)
-4. 🎉 Merged PR [#3](https://github.com/bmonish/mobile-app-dev-test-repo/pull/3) in [bmonish/mobile-app-dev-test-repo](https://github.com/bmonish/mobile-app-dev-test-repo)
-5. 🎉 Merged PR [#2](https://github.com/bmonish/mobile-app-dev-test-repo/pull/2) in [bmonish/mobile-app-dev-test-repo](https://github.com/bmonish/mobile-app-dev-test-repo)
+1. 💪 Opened PR [#3](https://github.com/bmonish/rn-ci-cd/pull/3) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+2. 🎉 Merged PR [#2](https://github.com/bmonish/rn-ci-cd/pull/2) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+3. 💪 Opened PR [#2](https://github.com/bmonish/rn-ci-cd/pull/2) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+4. 🎉 Merged PR [#1](https://github.com/bmonish/rn-ci-cd/pull/1) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+5. 💪 Opened PR [#1](https://github.com/bmonish/rn-ci-cd/pull/1) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
 <!--END_SECTION:activity-->
