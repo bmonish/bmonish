@@ -1,3 +1,5 @@
+name: Update DevCard Badge
+
 on:
   workflow_dispatch:
   push:
