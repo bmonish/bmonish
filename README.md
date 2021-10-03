@@ -1,6 +1,8 @@
 <div align="left">
 <h1>Aspiring Full Stack Developer</h1>
-  <a href="https://app.daily.dev/get?r=bmonish"><img src="https://github.com/bmonish/bmonish/blob/master/devcard.svg" width="256" alt="Monish's Dev Card"/></a>
+  <a href="https://app.daily.dev/get?r=bmonish">
+    <img align="right" src="https://github.com/bmonish/bmonish/blob/master/devcard.svg" width="256" alt="Monish's Dev Card" />
+  </a>
 <ul>
   <li>🔭 I’m currently working on a <strong>Social Network App<strong> and a <a href="https://bmonish.github.io/early-storage/"><strong>Landing Page</strong></a></li>
   <li>🌱 I’m currently learning <strong>ReactJs, RestAPIs, Data Structures & Algorithms</strong> and also practicing <strong>Competitive Programming</strong></li>
