@@ -40,9 +40,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/bmonish/rn-ci-cd/pull/3) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
-2. 🎉 Merged PR [#2](https://github.com/bmonish/rn-ci-cd/pull/2) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
-3. 💪 Opened PR [#2](https://github.com/bmonish/rn-ci-cd/pull/2) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
-4. 🎉 Merged PR [#1](https://github.com/bmonish/rn-ci-cd/pull/1) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
-5. 💪 Opened PR [#1](https://github.com/bmonish/rn-ci-cd/pull/1) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+1. 🎉 Merged PR [#1](https://github.com/bmonish/test-m-squared/pull/1) in [bmonish/test-m-squared](https://github.com/bmonish/test-m-squared)
+2. 💪 Opened PR [#1](https://github.com/bmonish/test-m-squared/pull/1) in [bmonish/test-m-squared](https://github.com/bmonish/test-m-squared)
+3. 💪 Opened PR [#3](https://github.com/bmonish/rn-ci-cd/pull/3) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+4. 🎉 Merged PR [#2](https://github.com/bmonish/rn-ci-cd/pull/2) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
+5. 💪 Opened PR [#2](https://github.com/bmonish/rn-ci-cd/pull/2) in [bmonish/rn-ci-cd](https://github.com/bmonish/rn-ci-cd)
 <!--END_SECTION:activity-->
