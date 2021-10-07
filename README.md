@@ -1,14 +1,15 @@
-### Hi there! I'm Monish 👋
+<div align="left">
+<h1>Aspiring Full Stack Developer</h1>
+  <a href="https://app.daily.dev/get?r=bmonish"><img src="https://github.com/bmonish/bmonish/blob/master/devcard.svg" width="256" alt="Monish's Dev Card"/></a>
+<ul>
+  <li>🔭 I’m currently working on a <strong>Social Network App<strong> and a <a href="https://bmonish.github.io/early-storage/"><strong>Landing Page</strong></a></li>
+  <li>🌱 I’m currently learning <strong>ReactJs, RestAPIs, Data Structures & Algorithms</strong> and also practicing <strong>Competitive Programming</strong></li>
+  <li>📫 Reach me at <a href="https://www.instagram.com/monish.codes/"><strong>@monish.codes</strong></a> or <a href="mailto:monishmonib@gmail.com"><strong>monishmonib@gmail.com</strong></a> or <a href="https://linkedin.com/in/bmonish"><strong>LinkedIn</strong></a>
+  <li>👤 My Other Profiles: <a href="https://leetcode.com/bmonish/"><strong>LeetCode</strong></a> | <a href="https://www.hackerrank.com/monishmonib"><strong>HackerRank</strong></a></li>
+</ul>
+</div>
 
-# I'm currently travelling on a path to become a Full Stack Developer
-
-- 🔭 I’m currently working on a **Social Network App** and a [**Landing Page.**](https://bmonish.github.io/early-storage/)
-- 🌱 I’m currently learning **ReactJs**, **RestAPIs**, **Data Structures & Algorithms** and also practicing **Competitive Programming**
-- 📫 Reach me at [**@monish.codes**](https://www.instagram.com/monish.codes/) or **monishmonib@gmail.com** or [**LinkedIn**](https://linkedin.com/in/bmonish)
-- 👤 My Other Profiles: [**LeetCode**](https://leetcode.com/bmonish/) | [**Hackerrank**](https://www.hackerrank.com/monishmonib)
-
-__________
-
+---
 ### ***Tech Stack***
 
 | HTML  | CSS | JAVASCRIPT | BOOTSTRAP |
