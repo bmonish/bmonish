@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/bmonish/portfolio/pull/18) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-2. 🎉 Merged PR [#19](https://github.com/bmonish/portfolio/pull/19) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-3. 🎉 Merged PR [#20](https://github.com/bmonish/portfolio/pull/20) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-4. 🎉 Merged PR [#17](https://github.com/bmonish/portfolio/pull/17) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
-5. 🎉 Merged PR [#16](https://github.com/bmonish/portfolio/pull/16) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+1. 🎉 Merged PR [#18](https://github.com/bmonish/hikers-api/pull/18) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
+2. ❗️ Closed issue [#16](https://github.com/bmonish/hikers-api/issues/16) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
+3. 💪 Opened PR [#18](https://github.com/bmonish/hikers-api/pull/18) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
+4. 🎉 Merged PR [#18](https://github.com/bmonish/portfolio/pull/18) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+5. 🎉 Merged PR [#19](https://github.com/bmonish/portfolio/pull/19) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
 <!--END_SECTION:activity-->
