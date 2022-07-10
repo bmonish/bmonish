@@ -22,9 +22,9 @@
 
 ### ***Tools I Use***
 
-| GIT  | VS Code | Netlify | Terminal | 
-| :-------------: | :-------------: |:-------------: | :-------------: |
-| <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
+| GIT  | VS Code | Netlify | Terminal | AWS |
+| :-------------: | :-------------: |:-------------: | :-------------: | :-------------: |
+| <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/aws-ec2.svg"> |
 
 ### ***Design tools I use***
 
@@ -36,7 +36,7 @@
 
 | MongoDB | Node Js | React Js | Data Structures | Java |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
- | <img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg"> |<img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://image.flaticon.com/icons/png/512/2920/2920211.png"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> |
+ | <img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg"> |<img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://icons.veryicon.com/png/o/miscellaneous/icons-for-data-class-organization-and/data-structure-1.png"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> |
 
 _____
 
