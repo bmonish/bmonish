@@ -45,7 +45,7 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/bmonish/portfolio/pull/22) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
+1. 💪 Opened PR [#2](https://github.com/hiteshchoudhary/typescript-youtube-22/pull/2) in [hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)
 2. 🎉 Merged PR [#21](https://github.com/bmonish/portfolio/pull/21) in [bmonish/portfolio](https://github.com/bmonish/portfolio)
 3. 🎉 Merged PR [#18](https://github.com/bmonish/hikers-api/pull/18) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
 4. ❗️ Closed issue [#16](https://github.com/bmonish/hikers-api/issues/16) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
