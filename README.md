@@ -45,7 +45,7 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/hiteshchoudhary/typescript-youtube-22/issues/2) in [hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)
+1. 🗣 Commented on [#1846](https://github.com/OpenAPITools/openapi-generator/issues/1846) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 2. 💪 Opened PR [#2](https://github.com/hiteshchoudhary/typescript-youtube-22/pull/2) in [hiteshchoudhary/typescript-youtube-22](https://github.com/hiteshchoudhary/typescript-youtube-22)
 3. 🎉 Merged PR [#18](https://github.com/bmonish/hikers-api/pull/18) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
 4. ❗️ Closed issue [#16](https://github.com/bmonish/hikers-api/issues/16) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
