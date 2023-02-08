@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#474](https://github.com/ONDC-Official/verification-logs/pull/474) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-2. 🗣 Commented on [#1846](https://github.com/OpenAPITools/openapi-generator/issues/1846) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-3. 🎉 Merged PR [#18](https://github.com/bmonish/hikers-api/pull/18) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
-4. ❗️ Closed issue [#16](https://github.com/bmonish/hikers-api/issues/16) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
-5. 💪 Opened PR [#18](https://github.com/bmonish/hikers-api/pull/18) in [bmonish/hikers-api](https://github.com/bmonish/hikers-api)
+1. 💪 Opened PR [#478](https://github.com/ONDC-Official/verification-logs/pull/478) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+2. ❌ Closed PR [#477](https://github.com/ONDC-Official/verification-logs/pull/477) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+3. 💪 Opened PR [#477](https://github.com/ONDC-Official/verification-logs/pull/477) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+4. 💪 Opened PR [#474](https://github.com/ONDC-Official/verification-logs/pull/474) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+5. 🗣 Commented on [#1846](https://github.com/OpenAPITools/openapi-generator/issues/1846) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 <!--END_SECTION:activity-->
