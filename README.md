@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#486](https://github.com/ONDC-Official/verification-logs/pull/486) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-2. 💪 Opened PR [#478](https://github.com/ONDC-Official/verification-logs/pull/478) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-3. ❌ Closed PR [#477](https://github.com/ONDC-Official/verification-logs/pull/477) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-4. 💪 Opened PR [#477](https://github.com/ONDC-Official/verification-logs/pull/477) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-5. 💪 Opened PR [#474](https://github.com/ONDC-Official/verification-logs/pull/474) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+1. 💪 Opened PR [#492](https://github.com/ONDC-Official/verification-logs/pull/492) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+2. 💪 Opened PR [#45](https://github.com/ONDC-Official/biap-app-ui-front/pull/45) in [ONDC-Official/biap-app-ui-front](https://github.com/ONDC-Official/biap-app-ui-front)
+3. 💪 Opened PR [#486](https://github.com/ONDC-Official/verification-logs/pull/486) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+4. 💪 Opened PR [#478](https://github.com/ONDC-Official/verification-logs/pull/478) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+5. ❌ Closed PR [#477](https://github.com/ONDC-Official/verification-logs/pull/477) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
 <!--END_SECTION:activity-->
