@@ -46,8 +46,8 @@ _____
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#444](https://github.com/ONDC-Official/verification-logs/issues/444) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-2. 💪 Opened PR [#492](https://github.com/ONDC-Official/verification-logs/pull/492) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-3. 💪 Opened PR [#45](https://github.com/ONDC-Official/biap-app-ui-front/pull/45) in [ONDC-Official/biap-app-ui-front](https://github.com/ONDC-Official/biap-app-ui-front)
-4. 💪 Opened PR [#486](https://github.com/ONDC-Official/verification-logs/pull/486) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-5. 💪 Opened PR [#478](https://github.com/ONDC-Official/verification-logs/pull/478) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+2. 💪 Opened PR [#500](https://github.com/ONDC-Official/verification-logs/pull/500) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+3. 🗣 Commented on [#444](https://github.com/ONDC-Official/verification-logs/issues/444) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+4. 💪 Opened PR [#492](https://github.com/ONDC-Official/verification-logs/pull/492) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+5. 💪 Opened PR [#45](https://github.com/ONDC-Official/biap-app-ui-front/pull/45) in [ONDC-Official/biap-app-ui-front](https://github.com/ONDC-Official/biap-app-ui-front)
 <!--END_SECTION:activity-->
