@@ -45,8 +45,8 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176584](https://github.com/microsoft/vscode/issues/176584) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#176584](https://github.com/microsoft/vscode/issues/176584) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#2](https://github.com/areen-order-hub/areen-ui/pull/2) in [areen-order-hub/areen-ui](https://github.com/areen-order-hub/areen-ui)
+2. 💪 Opened PR [#2](https://github.com/areen-order-hub/areen-ui/pull/2) in [areen-order-hub/areen-ui](https://github.com/areen-order-hub/areen-ui)
 3. 🗣 Commented on [#444](https://github.com/ONDC-Official/verification-logs/issues/444) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
 4. 💪 Opened PR [#519](https://github.com/ONDC-Official/verification-logs/pull/519) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
 5. 🗣 Commented on [#444](https://github.com/ONDC-Official/verification-logs/issues/444) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
