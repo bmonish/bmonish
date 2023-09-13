@@ -7,7 +7,7 @@
   </a>
 <ul>
   <li>🔭 I’m currently working on a <strong>Social Network App<strong> and a <a href="https://bmonish.github.io/early-storage/" target="_blank"><strong>Landing Page</strong></a></li>
-  <li>🌱 I’m currently learning <strong>ReactJs, RestAPIs, Data Structures & Algorithms</strong> and also practicing <strong>Competitive Programming</strong></li>
+  <li>🌱 I’m currently learning <strong>System Design</strong> and also practicing <strong>Competitive Programming</strong></li>
   <li>📫 Reach me at <a href="https://www.instagram.com/monish.codes/" target="_blank"><strong>@monish.codes</strong></a> or <a href="mailto:monishmonib@gmail.com"><strong>monishmonib@gmail.com</strong></a> or <a href="https://linkedin.com/in/bmonish" target="_blank"><strong>LinkedIn</strong></a>
   <li>👤 My Other Profiles: <a href="https://leetcode.com/bmonish/" target="_blank"><strong>LeetCode</strong></a> | <a href="https://www.hackerrank.com/monishmonib" target="_blank"><strong>HackerRank</strong></a></li>
 </ul>
