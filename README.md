@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/areen-order-hub/areen-ui/pull/2) in [areen-order-hub/areen-ui](https://github.com/areen-order-hub/areen-ui)
-2. 💪 Opened PR [#2](https://github.com/areen-order-hub/areen-ui/pull/2) in [areen-order-hub/areen-ui](https://github.com/areen-order-hub/areen-ui)
-3. 🗣 Commented on [#444](https://github.com/ONDC-Official/verification-logs/issues/444) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-4. 💪 Opened PR [#519](https://github.com/ONDC-Official/verification-logs/pull/519) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+1. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1757095800) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+2. ❗ Opened issue [#724](https://github.com/webdevcody/code-racer/issues/724) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+3. 🎉 Merged PR [#2](https://github.com/areen-order-hub/areen-ui/pull/2) in [areen-order-hub/areen-ui](https://github.com/areen-order-hub/areen-ui)
+4. 💪 Opened PR [#2](https://github.com/areen-order-hub/areen-ui/pull/2) in [areen-order-hub/areen-ui](https://github.com/areen-order-hub/areen-ui)
 5. 🗣 Commented on [#444](https://github.com/ONDC-Official/verification-logs/issues/444) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
 <!--END_SECTION:activity-->
