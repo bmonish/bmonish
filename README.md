@@ -16,9 +16,9 @@
 ---
 ### ***Tech Stack***
 
-| HTML  | CSS | JAVASCRIPT | BOOTSTRAP |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |
+| HTML  | CSS | JAVASCRIPT | REACT | BOOTSTRAP |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | 
 
 ### ***Tools I Use***
 
@@ -34,9 +34,9 @@
 
 ### ***Currently Mastering***
 
-| MongoDB | Node Js | React Js | Data Structures | Java |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
- | <img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg"> |<img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="30px" src="https://icons.veryicon.com/png/o/miscellaneous/icons-for-data-class-organization-and/data-structure-1.png"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> |
+| MongoDB | Node Js | Data Structures | Java |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+ | <img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg"> |<img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> | <img height="30px" src="https://icons.veryicon.com/png/o/miscellaneous/icons-for-data-class-organization-and/data-structure-1.png"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> |
 
 _____
 
