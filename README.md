@@ -5,6 +5,9 @@
   <a href="https://app.daily.dev/get?r=bmonish" target="_blank">
     <img align="right" src="https://github.com/bmonish/bmonish/blob/master/devcard.svg" width="256" alt="Monish's Dev Card" />
   </a>
+
+- 🔭 I’m currently working on an <strong>application for Freelancers<strong> and a [**landing page**](https://bmonish.github.io/early-storage/)
+
 <ul>
   <li>🔭 I’m currently working on an <strong>application for Freelancers<strong> and a <a href="https://bmonish.github.io/early-storage/" target="_blank"><strong>Landing Page</strong></a></li>
   <li>🌱 I’m currently learning <strong>System Design</strong> and also practicing <strong>Competitive Programming</strong></li>
