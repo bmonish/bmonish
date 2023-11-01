@@ -7,14 +7,10 @@
   </a>
 
 - 🔭 I’m currently working on an <strong>application for Freelancers<strong> and a [**landing page**](https://bmonish.github.io/early-storage/)
-
-<ul>
-  <li>🔭 I’m currently working on an <strong>application for Freelancers<strong> and a <a href="https://bmonish.github.io/early-storage/" target="_blank"><strong>Landing Page</strong></a></li>
-  <li>🌱 I’m currently learning <strong>System Design</strong> and also practicing <strong>Competitive Programming</strong></li>
-  <li>📫 Reach me on Instagram at <a href="https://www.instagram.com/bmonish.tech/" target="blank"><strong>@bmonish.tech</strong></a> or <a href="mailto:monishmonib@gmail.com"><strong>monishmonib@gmail.com</strong></a> or <a href="https://linkedin.com/in/bmonish" target="_blank"><strong>LinkedIn</strong></a>
-  <li>👤 My Other Profiles: <a href="https://leetcode.com/bmonish/" target="_blank"><strong>LeetCode</strong></a> | <a href="https://www.hackerrank.com/monishmonib" target="_blank"><strong>HackerRank</strong></a></li>
-  <li>Checkout my <a href="https://bmonish.tech" target="_blank">portfolio</a></li>
-</ul>
+- 🌱 I’m currently learning <strong>System Design</strong> and also practicing <strong>Competitive Programming</strong>
+- 📫 Reach me on Instagram at [@bmonish.tech](https://www.instagram.com/bmonish.tech/) or <a href="mailto:monishmonib@gmail.com"><strong>monishmonib@gmail.com</strong></a> or [LinkedIn](https://linkedin.com/in/bmonish)
+- 👤 My Other Profiles: [LeetCode](https://leetcode.com/bmonish/) | [HackerRank](https://www.hackerrank.com/monishmonib)
+- Checkout my [portfolio](https://bmonish.tech)
 </div>
 
 ---
