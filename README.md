@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#727](https://github.com/webdevcody/code-racer/issues/727) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-2. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1758864305) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-3. 💪 Opened PR [#725](https://github.com/webdevcody/code-racer/pull/725) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-4. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1758856311) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-5. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1757095800) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+1. 💪 Opened PR [#1276](https://github.com/ONDC-Official/verification-logs/pull/1276) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+2. ❗ Opened issue [#727](https://github.com/webdevcody/code-racer/issues/727) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+3. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1758864305) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+4. 💪 Opened PR [#725](https://github.com/webdevcody/code-racer/pull/725) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+5. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1758856311) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
 <!--END_SECTION:activity-->
