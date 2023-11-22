@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1276](https://github.com/ONDC-Official/verification-logs/pull/1276) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
-2. ❗ Opened issue [#727](https://github.com/webdevcody/code-racer/issues/727) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-3. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1758864305) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-4. 💪 Opened PR [#725](https://github.com/webdevcody/code-racer/pull/725) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-5. 🗣 Commented on [#724](https://github.com/webdevcody/code-racer/issues/724#issuecomment-1758856311) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+1. 🗣 Commented on [#1290](https://github.com/ONDC-Official/verification-logs/issues/1290#issuecomment-1820759250) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+2. 🗣 Commented on [#1295](https://github.com/ONDC-Official/verification-logs/pull/1295#issuecomment-1820727030) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+3. 💪 Opened PR [#1295](https://github.com/ONDC-Official/verification-logs/pull/1295) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+4. 🗣 Commented on [#1290](https://github.com/ONDC-Official/verification-logs/issues/1290#issuecomment-1820269746) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
+5. 💪 Opened PR [#1276](https://github.com/ONDC-Official/verification-logs/pull/1276) in [ONDC-Official/verification-logs](https://github.com/ONDC-Official/verification-logs)
 <!--END_SECTION:activity-->
