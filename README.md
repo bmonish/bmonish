@@ -22,9 +22,9 @@
 
 ### ***DevOps Tools***
 
-| Docker  |
-| :-------------: |
-| <img height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">  |
+| Docker  | Kubernetes |
+| :-------------: | :-------------: |
+| <img height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/kubernetes.svg">  |
 
 ### ***Tools I Use***
 
