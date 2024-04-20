@@ -45,9 +45,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/ONDC-Official/log-validation-utility/pull/38#issuecomment-1976099256) in [ONDC-Official/log-validation-utility](https://github.com/ONDC-Official/log-validation-utility)
-2. 🗣 Commented on [#859](https://github.com/ONDC-Official/v1.2.0-logs/issues/859#issuecomment-1960734970) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-3. 🗣 Commented on [#38](https://github.com/ONDC-Official/log-validation-utility/pull/38#issuecomment-1952911802) in [ONDC-Official/log-validation-utility](https://github.com/ONDC-Official/log-validation-utility)
-4. 💪 Opened PR [#38](https://github.com/ONDC-Official/log-validation-utility/pull/38) in [ONDC-Official/log-validation-utility](https://github.com/ONDC-Official/log-validation-utility)
-5. 🎉 Merged PR [#1](https://github.com/bmonish/ci-cd-experiments/pull/1) in [bmonish/ci-cd-experiments](https://github.com/bmonish/ci-cd-experiments)
+1. 🗣 Commented on [#1395](https://github.com/ONDC-Official/v1.2.0-logs/issues/1395#issuecomment-2065748444) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+2. 🗣 Commented on [#38](https://github.com/ONDC-Official/log-validation-utility/pull/38#issuecomment-1976099256) in [ONDC-Official/log-validation-utility](https://github.com/ONDC-Official/log-validation-utility)
+3. 🗣 Commented on [#859](https://github.com/ONDC-Official/v1.2.0-logs/issues/859#issuecomment-1960734970) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+4. 🗣 Commented on [#38](https://github.com/ONDC-Official/log-validation-utility/pull/38#issuecomment-1952911802) in [ONDC-Official/log-validation-utility](https://github.com/ONDC-Official/log-validation-utility)
+5. 💪 Opened PR [#38](https://github.com/ONDC-Official/log-validation-utility/pull/38) in [ONDC-Official/log-validation-utility](https://github.com/ONDC-Official/log-validation-utility)
 <!--END_SECTION:activity-->
