@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2321](https://github.com/ONDC-Official/v1.2.0-logs/pull/2321#issuecomment-2312720637) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-2. 💪 Opened PR [#2321](https://github.com/ONDC-Official/v1.2.0-logs/pull/2321) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-3. 🗣 Commented on [#2314](https://github.com/ONDC-Official/v1.2.0-logs/pull/2314#issuecomment-2311811356) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-4. 💪 Opened PR [#2314](https://github.com/ONDC-Official/v1.2.0-logs/pull/2314) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-5. 💪 Opened PR [#1](https://github.com/madhummitha/shopify-api/pull/1) in [madhummitha/shopify-api](https://github.com/madhummitha/shopify-api)
+1. 🗣 Commented on [#2068](https://github.com/ONDC-Official/v1.2.0-logs/issues/2068#issuecomment-2313928592) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+2. 🗣 Commented on [#2321](https://github.com/ONDC-Official/v1.2.0-logs/pull/2321#issuecomment-2312720637) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+3. 💪 Opened PR [#2321](https://github.com/ONDC-Official/v1.2.0-logs/pull/2321) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+4. 🗣 Commented on [#2314](https://github.com/ONDC-Official/v1.2.0-logs/pull/2314#issuecomment-2311811356) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+5. 💪 Opened PR [#2314](https://github.com/ONDC-Official/v1.2.0-logs/pull/2314) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
 <!--END_SECTION:activity-->
