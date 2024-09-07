@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2068](https://github.com/ONDC-Official/v1.2.0-logs/issues/2068#issuecomment-2320809526) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-2. 🗣 Commented on [#2052](https://github.com/ONDC-Official/v1.2.0-logs/issues/2052#issuecomment-2320808560) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-3. 🗣 Commented on [#2052](https://github.com/ONDC-Official/v1.2.0-logs/issues/2052#issuecomment-2316838104) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-4. 🗣 Commented on [#2068](https://github.com/ONDC-Official/v1.2.0-logs/issues/2068#issuecomment-2313928592) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-5. 🗣 Commented on [#2321](https://github.com/ONDC-Official/v1.2.0-logs/pull/2321#issuecomment-2312720637) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+1. 💪 Opened PR [#2382](https://github.com/ONDC-Official/v1.2.0-logs/pull/2382) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+2. 🗣 Commented on [#2068](https://github.com/ONDC-Official/v1.2.0-logs/issues/2068#issuecomment-2320809526) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+3. 🗣 Commented on [#2052](https://github.com/ONDC-Official/v1.2.0-logs/issues/2052#issuecomment-2320808560) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+4. 🗣 Commented on [#2052](https://github.com/ONDC-Official/v1.2.0-logs/issues/2052#issuecomment-2316838104) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+5. 🗣 Commented on [#2068](https://github.com/ONDC-Official/v1.2.0-logs/issues/2068#issuecomment-2313928592) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
 <!--END_SECTION:activity-->
