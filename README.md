@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/bmonish/react-portfolio/pull/23) in [bmonish/react-portfolio](https://github.com/bmonish/react-portfolio)
-2. 🗣 Commented on [#2409](https://github.com/ONDC-Official/v1.2.0-logs/issues/2409#issuecomment-2351988425) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-3. 💪 Opened PR [#2382](https://github.com/ONDC-Official/v1.2.0-logs/pull/2382) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-4. 🗣 Commented on [#2068](https://github.com/ONDC-Official/v1.2.0-logs/issues/2068#issuecomment-2320809526) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
-5. 🗣 Commented on [#2052](https://github.com/ONDC-Official/v1.2.0-logs/issues/2052#issuecomment-2320808560) in [ONDC-Official/v1.2.0-logs](https://github.com/ONDC-Official/v1.2.0-logs)
+1. 💪 Opened PR [#300](https://github.com/KinsonDigital/VelaptorDocs/pull/300) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+2. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2388663834) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+3. 💪 Opened PR [#299](https://github.com/KinsonDigital/VelaptorDocs/pull/299) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+4. 🗣 Commented on [#298](https://github.com/KinsonDigital/VelaptorDocs/issues/298#issuecomment-2387820243) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+5. 🗣 Commented on [#297](https://github.com/KinsonDigital/VelaptorDocs/issues/297#issuecomment-2387819077) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
 <!--END_SECTION:activity-->
