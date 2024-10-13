@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#300](https://github.com/KinsonDigital/VelaptorDocs/pull/300) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
-2. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2388663834) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
-3. 💪 Opened PR [#299](https://github.com/KinsonDigital/VelaptorDocs/pull/299) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
-4. 🗣 Commented on [#298](https://github.com/KinsonDigital/VelaptorDocs/issues/298#issuecomment-2387820243) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
-5. 🗣 Commented on [#297](https://github.com/KinsonDigital/VelaptorDocs/issues/297#issuecomment-2387819077) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+1. 🗣 Commented on [#1043](https://github.com/KinsonDigital/Velaptor/pull/1043#issuecomment-2408627093) in [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor)
+2. 💪 Opened PR [#1043](https://github.com/KinsonDigital/Velaptor/pull/1043) in [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor)
+3. 🗣 Commented on [#1042](https://github.com/KinsonDigital/Velaptor/issues/1042#issuecomment-2408381900) in [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor)
+4. 💪 Opened PR [#300](https://github.com/KinsonDigital/VelaptorDocs/pull/300) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+5. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2388663834) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
 <!--END_SECTION:activity-->
