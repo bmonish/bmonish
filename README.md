@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1043](https://github.com/KinsonDigital/Velaptor/pull/1043#issuecomment-2408627093) in [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor)
-2. 💪 Opened PR [#1043](https://github.com/KinsonDigital/Velaptor/pull/1043) in [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor)
-3. 🗣 Commented on [#1042](https://github.com/KinsonDigital/Velaptor/issues/1042#issuecomment-2408381900) in [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor)
-4. 💪 Opened PR [#300](https://github.com/KinsonDigital/VelaptorDocs/pull/300) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
-5. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2388663834) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+1. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2414652661) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
+2. 🎉 Merged PR [#19](https://github.com/bmonish/react-todo/pull/19) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+3. 🎉 Merged PR [#14](https://github.com/bmonish/react-todo/pull/14) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+4. 🎉 Merged PR [#13](https://github.com/bmonish/react-todo/pull/13) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+5. 🎉 Merged PR [#11](https://github.com/bmonish/react-todo/pull/11) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
 <!--END_SECTION:activity-->
