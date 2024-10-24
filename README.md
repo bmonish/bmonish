@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/bmonish/react-portfolio/pull/24) in [bmonish/react-portfolio](https://github.com/bmonish/react-portfolio)
-2. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2420374759) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
-3. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2419401879) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
-4. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2417035140) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
-5. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2414652661) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
+1. 💪 Opened PR [#326](https://github.com/KinsonDigital/VelaptorDocs/pull/326) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+2. 🗣 Commented on [#308](https://github.com/KinsonDigital/VelaptorDocs/issues/308#issuecomment-2429216349) in [KinsonDigital/VelaptorDocs](https://github.com/KinsonDigital/VelaptorDocs)
+3. 🎉 Merged PR [#24](https://github.com/bmonish/react-portfolio/pull/24) in [bmonish/react-portfolio](https://github.com/bmonish/react-portfolio)
+4. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2420374759) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
+5. 🗣 Commented on [#11](https://github.com/webdevcody/survive-the-night-sim/issues/11#issuecomment-2419401879) in [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim)
 <!--END_SECTION:activity-->
