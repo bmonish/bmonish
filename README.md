@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/bmonish/react-todo/pull/38) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
-2. 🎉 Merged PR [#31](https://github.com/bmonish/react-todo/pull/31) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
-3. 🎉 Merged PR [#30](https://github.com/bmonish/react-todo/pull/30) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
-4. 🎉 Merged PR [#37](https://github.com/bmonish/react-todo/pull/37) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
-5. 🎉 Merged PR [#35](https://github.com/bmonish/react-todo/pull/35) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+1. 🎉 Merged PR [#34](https://github.com/bmonish/react-todo/pull/34) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+2. 🎉 Merged PR [#38](https://github.com/bmonish/react-todo/pull/38) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+3. 🎉 Merged PR [#31](https://github.com/bmonish/react-todo/pull/31) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+4. 🎉 Merged PR [#30](https://github.com/bmonish/react-todo/pull/30) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+5. 🎉 Merged PR [#37](https://github.com/bmonish/react-todo/pull/37) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
 <!--END_SECTION:activity-->
