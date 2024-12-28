@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on an <strong>application for Freelancers<strong> and a [**landing page**](https://bmonish.github.io/early-storage/)
 - 🌱 I’m currently learning <strong>System Design</strong> and also practicing <strong>Competitive Programming</strong>
-- 📫 Reach me on Instagram at [@bmonish.tech](https://www.instagram.com/bmonish.tech/) or <a href="mailto:monishmonib@gmail.com"><strong>monishmonib@gmail.com</strong></a> or [LinkedIn](https://linkedin.com/in/bmonish)
+- 📫 Reach me on Instagram at [@bmonish.tech](https://www.instagram.com/bmonish.tech/) or <a href="mailto:contact@bmonish.tech"><strong>contact@bmonish.tech</strong></a> or [LinkedIn](https://linkedin.com/in/bmonish)
 - 👤 My Other Profiles: [LeetCode](https://leetcode.com/bmonish/) | [HackerRank](https://www.hackerrank.com/monishmonib)
 - Checkout my [portfolio](https://bmonish.tech)
 </div>
