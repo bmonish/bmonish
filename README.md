@@ -51,9 +51,9 @@ _____
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmonish" alt="bmonish"/></p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#9581](https://github.com/anomalyco/opencode/issues/9581) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. ❗ Opened issue [#9581](https://github.com/anomalyco/opencode/issues/9581) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. 🎉 Merged PR [#39](https://github.com/bmonish/react-todo/pull/39) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
+1. 🗣 Commented on [#9581](https://github.com/anomalyco/opencode/issues/9581#issuecomment-3776519785) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. ℹ️ Labeled issue [#9581](https://github.com/anomalyco/opencode/issues/9581) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+3. ❗ Opened issue [#9581](https://github.com/anomalyco/opencode/issues/9581) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 4. 🎉 Merged PR [#36](https://github.com/bmonish/react-todo/pull/36) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
 5. 🎉 Merged PR [#34](https://github.com/bmonish/react-todo/pull/34) in [bmonish/react-todo](https://github.com/bmonish/react-todo)
 <!--END_SECTION:activity-->
